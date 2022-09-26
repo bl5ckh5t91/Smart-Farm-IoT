@@ -16,6 +16,5 @@ How to run DashBord?
 	-copy DB folder to C harddisk
 	-from dashboard folder run  .sln file
 	
-Keywords: C# C++ Arduino SQL
 
 
