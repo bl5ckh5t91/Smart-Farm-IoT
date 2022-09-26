@@ -11,4 +11,9 @@ Code to read :
 Code write with Arduino IDE.
 DashBoard design and programe with C# vb.net
 
+How to run DashBord?
+	-conect arduino to pc 
+	-copy DB folder to C harddisk
+	-from dashboard folder run  .sln file
+
 
