@@ -15,5 +15,7 @@ How to run DashBord?
 	-conect arduino to pc 
 	-copy DB folder to C harddisk
 	-from dashboard folder run  .sln file
+	
+Keywords: C# C++ Arduino SQL
 
 
